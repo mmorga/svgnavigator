@@ -1,0 +1,23 @@
+{
+  "name": "svgnavigator",
+  "main": "svgnavigator.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pastjean/svgnavigator",
+  "authors": [
+    "Pierre-Alexandre St-Jean <pa@stjean.me>"
+  ],
+  "description": "SVG panning and zooming library",
+  "keywords": [
+    "svg",
+    "pan",
+    "zoom"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

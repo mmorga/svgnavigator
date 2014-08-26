@@ -1,0 +1,24 @@
+{
+  "name": "svgnavigator",
+  "version": "0.1.0",
+  "description": "SVG Panning and Zooming javscript library",
+  "main": "svgnavigator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pastjean/svgnavigator.git"
+  },
+  "keywords": [
+    "pan",
+    "zoom",
+    "svg"
+  ],
+  "author": "Pierre-Alexandre St-Jean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pastjean/svgnavigator/issues"
+  },
+  "homepage": "https://github.com/pastjean/svgnavigator"
+}
