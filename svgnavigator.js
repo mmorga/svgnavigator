@@ -1,4 +1,4 @@
-/** 
+/*! 
  * SVGNavigator
  * 
  * Copyright (c) 2014 Pierre-Alexandre St-Jean

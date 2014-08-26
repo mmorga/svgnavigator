@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/pastjean/svgnavigator/issues"
   },
-  "homepage": "https://github.com/pastjean/svgnavigator"
+  "homepage": "https://github.com/pastjean/svgnavigator",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-uglify": "^0.3.2",
+    "gulp-concat": "^2.3.4"
+  }
 }
