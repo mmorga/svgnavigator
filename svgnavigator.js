@@ -55,7 +55,6 @@
       if(e.preventDefault){ e.preventDefault() };
 
       e.returnValue = false
-      console.log("wheel")
 
       var delta;
       if(e.wheelDelta){
@@ -63,8 +62,8 @@
       }else{
         delta = e.detail / -90; // Mozilla/Opera
       }
-
-      var point = getSVGEventPoint(e)
+      delta = -delta; // we need to go the right way
+      var point = getSVGEventPoint(e);
 
       // var viewBox = svgElement.getAttribute("viewBox")
       var viewBox = svgElement.viewBox.baseVal
