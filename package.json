@@ -1,6 +1,6 @@
 {
   "name": "svgnavigator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "SVG Panning and Zooming javscript library",
   "main": "svgnavigator.js",
   "scripts": {
